@@ -23,7 +23,7 @@ The application's design was inspired by old Casio calculators, giving it a uniq
 - **C** : `Ctrl` + `⌫ Backspace`
 - **AC** : `⇧ Shift` + `⌫ Backspace`
 - **SHIFT** : `⇪ Caps Lock`
-- **COPY RSLT (COPY EQN in Shift Mode)** : `Ctrl` + `C`
+- **COPY RSLT (COPY EQN in Shift mode)** : `Ctrl` + `C`
 - **Scroll Display by one character (key hold down supported)** : `← Left` or `→ Right`
 - **Scroll to left/ right of equation (`Ctrl` to be toggled, handling both inputs not supported)** : `Ctrl` + `← Left` or `→ Right`
 
