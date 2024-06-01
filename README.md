@@ -97,7 +97,7 @@ It internally performs calculations up to the precision of a double.
 
 ### Images
 
-![calculator-icon](imagesREADME/calclator_icon.ico#calculator-icon)  
+![calculator-icon](imagesREADME/calculator_icon.ico#calculator-icon)  
 - Icon of calculator from [cleanpng](https://www.cleanpng.com/png-icon-gray-digital-calculator-single-button-calcula-7940685/)
 
 ### Colour and theme
