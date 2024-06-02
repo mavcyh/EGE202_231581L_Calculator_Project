@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mavcy\\OneDrive\\NYP\\EGE202 Application Programming\\Project 1\\PROJ01-E1-13-231581L-MAVERICK CHIN YU HENG\\Calculator_231581L\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7455B83E-CD4B-4EBD-BBFC-61EA6D5C6524}|Calculator_231581L\\Calculator_231581L.csproj|c:\\users\\mavcy\\onedrive\\nyp\\ege202 application programming\\project 1\\proj01-e1-13-231581l-maverick chin yu heng\\calculator_231581l\\calculator_231581l\\mainform_231581l.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7455B83E-CD4B-4EBD-BBFC-61EA6D5C6524}|Calculator_231581L\\Calculator_231581L.csproj|solutionrelative:calculator_231581l\\mainform_231581l.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7455B83E-CD4B-4EBD-BBFC-61EA6D5C6524}|Calculator_231581L\\Calculator_231581L.csproj|c:\\users\\mavcy\\onedrive\\nyp\\ege202 application programming\\project 1\\proj01-e1-13-231581l-maverick chin yu heng\\calculator_231581l\\calculator_231581l\\mainform_231581l.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7455B83E-CD4B-4EBD-BBFC-61EA6D5C6524}|Calculator_231581L\\Calculator_231581L.csproj|solutionrelative:calculator_231581l\\mainform_231581l.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7455B83E-CD4B-4EBD-BBFC-61EA6D5C6524}|Calculator_231581L\\Calculator_231581L.csproj|C:\\Users\\mavcy\\OneDrive\\NYP\\EGE202 Application Programming\\Project 1\\PROJ01-E1-13-231581L-MAVERICK CHIN YU HENG\\Calculator_231581L\\calculator_231581l\\fonts_colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7455B83E-CD4B-4EBD-BBFC-61EA6D5C6524}|Calculator_231581L\\Calculator_231581L.csproj|solutionrelative:calculator_231581l\\fonts_colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7455B83E-CD4B-4EBD-BBFC-61EA6D5C6524}|Calculator_231581L\\Calculator_231581L.csproj|C:\\Users\\mavcy\\OneDrive\\NYP\\EGE202 Application Programming\\Project 1\\PROJ01-E1-13-231581L-MAVERICK CHIN YU HENG\\Calculator_231581L\\calculator_231581l\\inputhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7455B83E-CD4B-4EBD-BBFC-61EA6D5C6524}|Calculator_231581L\\Calculator_231581L.csproj|solutionrelative:calculator_231581l\\inputhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 96,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm_231581L.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mavcy\\OneDrive\\NYP\\EGE202 Application Programming\\Project 1\\PROJ01-E1-13-231581L-MAVERICK CHIN YU HENG\\Calculator_231581L\\Calculator_231581L\\MainForm_231581L.cs",
+              "RelativeDocumentMoniker": "Calculator_231581L\\MainForm_231581L.cs",
+              "ToolTip": "C:\\Users\\mavcy\\OneDrive\\NYP\\EGE202 Application Programming\\Project 1\\PROJ01-E1-13-231581L-MAVERICK CHIN YU HENG\\Calculator_231581L\\Calculator_231581L\\MainForm_231581L.cs [Design]",
+              "RelativeToolTip": "Calculator_231581L\\MainForm_231581L.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T05:50:09.172Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InputHandling.cs",
+              "DocumentMoniker": "C:\\Users\\mavcy\\OneDrive\\NYP\\EGE202 Application Programming\\Project 1\\PROJ01-E1-13-231581L-MAVERICK CHIN YU HENG\\Calculator_231581L\\Calculator_231581L\\InputHandling.cs",
+              "RelativeDocumentMoniker": "Calculator_231581L\\InputHandling.cs",
+              "ToolTip": "C:\\Users\\mavcy\\OneDrive\\NYP\\EGE202 Application Programming\\Project 1\\PROJ01-E1-13-231581L-MAVERICK CHIN YU HENG\\Calculator_231581L\\Calculator_231581L\\InputHandling.cs",
+              "RelativeToolTip": "Calculator_231581L\\InputHandling.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAA8wMcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:50:25.82Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 304,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm_231581L.cs",
+              "DocumentMoniker": "C:\\Users\\mavcy\\OneDrive\\NYP\\EGE202 Application Programming\\Project 1\\PROJ01-E1-13-231581L-MAVERICK CHIN YU HENG\\Calculator_231581L\\Calculator_231581L\\MainForm_231581L.cs",
+              "RelativeDocumentMoniker": "Calculator_231581L\\MainForm_231581L.cs",
+              "ToolTip": "C:\\Users\\mavcy\\OneDrive\\NYP\\EGE202 Application Programming\\Project 1\\PROJ01-E1-13-231581L-MAVERICK CHIN YU HENG\\Calculator_231581L\\Calculator_231581L\\MainForm_231581L.cs",
+              "RelativeToolTip": "Calculator_231581L\\MainForm_231581L.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAmwMQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T02:27:10.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fonts_Colors.cs",
+              "DocumentMoniker": "C:\\Users\\mavcy\\OneDrive\\NYP\\EGE202 Application Programming\\Project 1\\PROJ01-E1-13-231581L-MAVERICK CHIN YU HENG\\Calculator_231581L\\Calculator_231581L\\Fonts_Colors.cs",
+              "RelativeDocumentMoniker": "Calculator_231581L\\Fonts_Colors.cs",
+              "ToolTip": "C:\\Users\\mavcy\\OneDrive\\NYP\\EGE202 Application Programming\\Project 1\\PROJ01-E1-13-231581L-MAVERICK CHIN YU HENG\\Calculator_231581L\\Calculator_231581L\\Fonts_Colors.cs*",
+              "RelativeToolTip": "Calculator_231581L\\Fonts_Colors.cs*",
+              "ViewState": "AQIAANgAAAAAAAAAAAAAAPwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:17:28.864Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
