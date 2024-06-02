@@ -169,7 +169,7 @@
             this.btnTrigMode.TabIndex = 21;
             this.btnTrigMode.TabStop = false;
             this.btnTrigMode.Tag = "TrigMode";
-            this.btnTrigMode.Text = "DEG";
+            this.btnTrigMode.Text = "RAD";
             this.btnTrigMode.UseVisualStyleBackColor = false;
             this.btnTrigMode.MouseDown += new System.Windows.Forms.MouseEventHandler(this.FncBtn_MouseDown);
             this.btnTrigMode.MouseLeave += new System.EventHandler(this.FncBtn_MouseUpOrLeave);

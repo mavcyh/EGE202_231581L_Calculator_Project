@@ -669,11 +669,13 @@ namespace Calculator_231581L
                     {
                         lblDeg.ForeColor = displayForeColor;
                         lblRad.ForeColor = lblInactiveColor;
+                        btnTrigMode.Text = "RAD";
                     }
                     else
                     {
                         lblDeg.ForeColor = lblInactiveColor;
                         lblRad.ForeColor = displayForeColor;
+                        btnTrigMode.Text = "DEG";
                     }
                     break;
                 case "Delete":
