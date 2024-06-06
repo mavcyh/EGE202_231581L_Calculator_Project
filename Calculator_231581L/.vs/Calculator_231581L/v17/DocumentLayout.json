@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\mavcy\\OneDrive\\NYP\\EGE202 Application Programming\\Project 1\\EGE202_231581L_Calculator_Project\\Calculator_231581L\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7455B83E-CD4B-4EBD-BBFC-61EA6D5C6524}|Calculator_231581L\\Calculator_231581L.csproj|C:\\Users\\mavcy\\OneDrive\\NYP\\EGE202 Application Programming\\Project 1\\EGE202_231581L_Calculator_Project\\Calculator_231581L\\calculator_231581l\\mainform_231581l.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7455B83E-CD4B-4EBD-BBFC-61EA6D5C6524}|Calculator_231581L\\Calculator_231581L.csproj|solutionrelative:calculator_231581l\\mainform_231581l.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7455B83E-CD4B-4EBD-BBFC-61EA6D5C6524}|Calculator_231581L\\Calculator_231581L.csproj|c:\\users\\mavcy\\onedrive\\nyp\\ege202 application programming\\project 1\\ege202_231581l_calculator_project\\calculator_231581l\\calculator_231581l\\mainform_231581l.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7455B83E-CD4B-4EBD-BBFC-61EA6D5C6524}|Calculator_231581L\\Calculator_231581L.csproj|solutionrelative:calculator_231581l\\mainform_231581l.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7455B83E-CD4B-4EBD-BBFC-61EA6D5C6524}|Calculator_231581L\\Calculator_231581L.csproj|C:\\Users\\mavcy\\OneDrive\\NYP\\EGE202 Application Programming\\Project 1\\EGE202_231581L_Calculator_Project\\Calculator_231581L\\calculator_231581l\\fonts_colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7455B83E-CD4B-4EBD-BBFC-61EA6D5C6524}|Calculator_231581L\\Calculator_231581L.csproj|solutionrelative:calculator_231581l\\fonts_colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7455B83E-CD4B-4EBD-BBFC-61EA6D5C6524}|Calculator_231581L\\Calculator_231581L.csproj|C:\\Users\\mavcy\\OneDrive\\NYP\\EGE202 Application Programming\\Project 1\\EGE202_231581L_Calculator_Project\\Calculator_231581L\\calculator_231581l\\inputhandlingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7455B83E-CD4B-4EBD-BBFC-61EA6D5C6524}|Calculator_231581L\\Calculator_231581L.csproj|solutionrelative:calculator_231581l\\inputhandlingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7455B83E-CD4B-4EBD-BBFC-61EA6D5C6524}|Calculator_231581L\\Calculator_231581L.csproj|C:\\Users\\mavcy\\OneDrive\\NYP\\EGE202 Application Programming\\Project 1\\EGE202_231581L_Calculator_Project\\Calculator_231581L\\calculator_231581l\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7455B83E-CD4B-4EBD-BBFC-61EA6D5C6524}|Calculator_231581L\\Calculator_231581L.csproj|solutionrelative:calculator_231581l\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7455B83E-CD4B-4EBD-BBFC-61EA6D5C6524}|Calculator_231581L\\Calculator_231581L.csproj|c:\\users\\mavcy\\onedrive\\nyp\\ege202 application programming\\project 1\\ege202_231581l_calculator_project\\calculator_231581l\\calculator_231581l\\mainform_231581l.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7455B83E-CD4B-4EBD-BBFC-61EA6D5C6524}|Calculator_231581L\\Calculator_231581L.csproj|solutionrelative:calculator_231581l\\mainform_231581l.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7455B83E-CD4B-4EBD-BBFC-61EA6D5C6524}|Calculator_231581L\\Calculator_231581L.csproj|C:\\Users\\mavcy\\OneDrive\\NYP\\EGE202 Application Programming\\Project 1\\EGE202_231581L_Calculator_Project\\Calculator_231581L\\calculator_231581l\\fonts_colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7455B83E-CD4B-4EBD-BBFC-61EA6D5C6524}|Calculator_231581L\\Calculator_231581L.csproj|solutionrelative:calculator_231581l\\fonts_colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7455B83E-CD4B-4EBD-BBFC-61EA6D5C6524}|Calculator_231581L\\Calculator_231581L.csproj|C:\\Users\\mavcy\\OneDrive\\NYP\\EGE202 Application Programming\\Project 1\\EGE202_231581L_Calculator_Project\\Calculator_231581L\\calculator_231581l\\mainform_231581l.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7455B83E-CD4B-4EBD-BBFC-61EA6D5C6524}|Calculator_231581L\\Calculator_231581L.csproj|solutionrelative:calculator_231581l\\mainform_231581l.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7455B83E-CD4B-4EBD-BBFC-61EA6D5C6524}|Calculator_231581L\\Calculator_231581L.csproj|C:\\Users\\mavcy\\OneDrive\\NYP\\EGE202 Application Programming\\Project 1\\EGE202_231581L_Calculator_Project\\Calculator_231581L\\calculator_231581l\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7455B83E-CD4B-4EBD-BBFC-61EA6D5C6524}|Calculator_231581L\\Calculator_231581L.csproj|solutionrelative:calculator_231581l\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 165,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MainForm_231581L.cs [Design]",
               "DocumentMoniker": "C:\\Users\\mavcy\\OneDrive\\NYP\\EGE202 Application Programming\\Project 1\\EGE202_231581L_Calculator_Project\\Calculator_231581L\\Calculator_231581L\\MainForm_231581L.cs",
               "RelativeDocumentMoniker": "Calculator_231581L\\MainForm_231581L.cs",
@@ -46,44 +46,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainForm_231581L.cs",
               "DocumentMoniker": "C:\\Users\\mavcy\\OneDrive\\NYP\\EGE202 Application Programming\\Project 1\\EGE202_231581L_Calculator_Project\\Calculator_231581L\\Calculator_231581L\\MainForm_231581L.cs",
               "RelativeDocumentMoniker": "Calculator_231581L\\MainForm_231581L.cs",
               "ToolTip": "C:\\Users\\mavcy\\OneDrive\\NYP\\EGE202 Application Programming\\Project 1\\EGE202_231581L_Calculator_Project\\Calculator_231581L\\Calculator_231581L\\MainForm_231581L.cs",
               "RelativeToolTip": "Calculator_231581L\\MainForm_231581L.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAAKUCAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T19:34:24.797Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "InputHandlingUI.cs",
               "DocumentMoniker": "C:\\Users\\mavcy\\OneDrive\\NYP\\EGE202 Application Programming\\Project 1\\EGE202_231581L_Calculator_Project\\Calculator_231581L\\Calculator_231581L\\InputHandlingUI.cs",
               "RelativeDocumentMoniker": "Calculator_231581L\\InputHandlingUI.cs",
               "ToolTip": "C:\\Users\\mavcy\\OneDrive\\NYP\\EGE202 Application Programming\\Project 1\\EGE202_231581L_Calculator_Project\\Calculator_231581L\\Calculator_231581L\\InputHandlingUI.cs",
               "RelativeToolTip": "Calculator_231581L\\InputHandlingUI.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAwwI8BAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI8BAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T20:29:52.498Z"
+              "WhenOpened": "2024-05-31T20:29:52.498Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Fonts_Colors.cs",
               "DocumentMoniker": "C:\\Users\\mavcy\\OneDrive\\NYP\\EGE202 Application Programming\\Project 1\\EGE202_231581L_Calculator_Project\\Calculator_231581L\\Calculator_231581L\\Fonts_Colors.cs",
               "RelativeDocumentMoniker": "Calculator_231581L\\Fonts_Colors.cs",
               "ToolTip": "C:\\Users\\mavcy\\OneDrive\\NYP\\EGE202 Application Programming\\Project 1\\EGE202_231581L_Calculator_Project\\Calculator_231581L\\Calculator_231581L\\Fonts_Colors.cs",
               "RelativeToolTip": "Calculator_231581L\\Fonts_Colors.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcBAAAFAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAiwEcAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T21:33:50.666Z"
+              "WhenOpened": "2024-05-31T21:33:50.666Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AudioPlayer.cs",
               "DocumentMoniker": "C:\\Users\\mavcy\\OneDrive\\NYP\\EGE202 Application Programming\\Project 1\\EGE202_231581L_Calculator_Project\\Calculator_231581L\\Calculator_231581L\\AudioPlayer.cs",
               "RelativeDocumentMoniker": "Calculator_231581L\\AudioPlayer.cs",

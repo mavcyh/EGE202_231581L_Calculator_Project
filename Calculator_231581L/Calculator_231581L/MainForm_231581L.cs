@@ -684,6 +684,9 @@ namespace Calculator_231581L
                         if (unaryOpPressed)
                         {
                             displayFormula = displayFormula.Substring(0, displayFormula.Length - 1);
+                            formulaSaved = formulaSaved + currentOpIcon + displayFormula;
+                            currentOpIcon = "";
+                            displayFormula = "";
                             disabledMode = true;
                         }
                         else if (currentOp == "Equal")
